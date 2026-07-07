@@ -96,7 +96,7 @@ solutions for real-world automation and intelligent document processing.</h3>
 
  # Connect With Me
   
-Let’s build an amazing DevOps & Cloud community together! 💡👩‍💻
+Let’s build an amazing AI community together! 💡👩‍💻
 ### **🔗 Connect with Me Everywhere! 🌍**  
 
 📌 **LinkedIn:** [Sarvesh Jarde](https://www.linkedin.com/in/sarvesh-jarde-89625929b/)  
