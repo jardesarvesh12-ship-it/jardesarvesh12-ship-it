@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Divya Satpute</h1>
-<div align="center"> <img src="https://github.com/divyasatpute/divyasatpute/blob/main/Aaron%20Loeb.png"> </div>
+<h1 align="center">Hi 👋, I'm Sarvesh Shantinath Jarde</h1>
+<div align="center"> <img src="https://github.com/sarveshJarde/sarveshJarde/blob/main/Aaron%20Loeb.png"> </div>
 <h3 align="center">A passionate DevOps Engineer From India. In my free time i run my own acommunity at https://chat.whatsapp.com/Ds1RjtNaNjP5cHc5jaw3nK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyasatpute&label=Profile%20views&color=0e75b6&style=flat" alt="divyasatpute" /> </p>
