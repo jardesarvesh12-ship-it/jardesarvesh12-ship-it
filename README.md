@@ -94,29 +94,13 @@ solutions for real-world automation and intelligent document processing.</h3>
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jardesarvesh12-ship-it&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardesarvesh12-ship-it&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jardesarvesh12-ship-it&theme=tokyonight"/>
-</p>
  # Connect With Me
   
 Let’s build an amazing DevOps & Cloud community together! 💡👩‍💻
 ### **🔗 Connect with Me Everywhere! 🌍**  
 
-📌 **LinkedIn:** [Divya Satpute](https://www.linkedin.com/in/divya-satpute-68666a300/)  
+📌 **LinkedIn:** [Sarvesh Jarde](https://www.linkedin.com/in/sarvesh-jarde-89625929b/)  
 
-📌 **Instagram (DevOps Content):** [@teacode1122](https://www.instagram.com/teacode1122/) 
+📌 **GitHub:** https://www.linkedin.com/in/sarvesh-jarde-89625929b/
 
-📌 **GitHub:** https://github.com/divyasatpute/vprofile-awsliftshift-project 
-
-📌 **Hashnode (Technical Blogs):** https://learnwithdivya.hashnode.dev/
-
-📌 **TeaCode Website:** https://teacode1122.vercel.app/
-
-📌 **YouTube (Teacode - DevOps Learning):** https://www.youtube.com/@Teacode-1122
-
-💬 Let’s connect, collaborate, and grow together in the **DevOps & Cloud** world! 🚀✨  
+💬 Let’s connect, collaborate, and grow together in the **AI** world! 🚀✨  
