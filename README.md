@@ -6,27 +6,24 @@
 applications using Python, TensorFlow, PyTorch, LangChain, FastAPI, and SQL. Experienced in deploying AI
 solutions for real-world automation and intelligent document processing.</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=jardesarvesh12-ship-it&label=Profile%20views&color=0e75b6&style=flat" alt="jardesarvesh12-ship-it" /> </p>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jardesarvesh12-ship-it&label=Profile%20views&color=0e75b6&style=flat" alt="jardesarvesh12-ship-it" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyasatpute" alt="divyasatpute" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://divyasatpute.github.io/divyasatpute.io/]
+- 👨‍💻 All of my projects are available at [https://github.com/jardesarvesh12-ship-it]
 
-- 📝 I regularly write articles on [https://learnwithdivya.hashnode.dev/](https://learnwithdivya.hashnode.dev/)
+- 📫 How to reach me **jardesarvesh12@gmail.com** or **jardesarvesh1@gmail.com**
 
-- 📫 How to reach me **teacode1122@gmail.com** or **divyasatpute822@gmail.com**
-
-- 📄 Know about my experiences (https://drive.google.com/file/d/1j77IK-Lbn6RrMYgOA-RCstRlOiRCvhCH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/divya-satpute?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/divya-satpute/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sarvesh-jarde-89625929b/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sarvesh Jarde LinkedIn" height="30" width="40" />
+</a>
+  
 <a href="https://www.instagram.com/_divya_satpute_1122?igsh=YmVlMmRtbWJ3cjJz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divya_satpute_1122" height="30" width="40" /></a>
+
 <a href="https://hashnode.com/@divya1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@divya1122" height="30" width="40" /></a>
 <a href="https://youtube.com/@teacode-1122?si=Zedl9euVntwRjOiR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@teacode-1122" height="30" width="40" /></a>
 </p>
