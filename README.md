@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sarvesh Shantinath Jarde</h1>
-<div align="center"> <img src="https://github.com/sarveshJarde/sarveshJarde/blob/main/Aaron%20Loeb.png"> </div>
-<h3 align="center">A passionate DevOps Engineer From India. In my free time i run my own acommunity at https://chat.whatsapp.com/Ds1RjtNaNjP5cHc5jaw3nK</h3>
+
+<div align="center"> <img src="https://github.com/jardesarvesh12-ship-it/jardesarvesh12-ship-it/blob/main/1758180372108.jpg"> </div>
+
+<h3 align="center">I/ML Engineer with hands-on experience building Computer Vision, OCR, NLP, Generative AI, and RAG
+applications using Python, TensorFlow, PyTorch, LangChain, FastAPI, and SQL. Experienced in deploying AI
+solutions for real-world automation and intelligent document processing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyasatpute&label=Profile%20views&color=0e75b6&style=flat" alt="divyasatpute" /> </p>
 
