@@ -93,8 +93,6 @@ solutions for real-world automation and intelligent document processing.</h3>
 
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://buymeacoffee.com/teacode112f"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/teacode112f" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyasatpute&show_icons=true&locale=en&layout=compact" alt="divyasatpute" /></p>
 
