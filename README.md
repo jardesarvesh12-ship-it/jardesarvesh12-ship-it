@@ -94,10 +94,14 @@ solutions for real-world automation and intelligent document processing.</h3>
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyasatpute&show_icons=true&locale=en&layout=compact" alt="divyasatpute" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jardesarvesh12-ship-it&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardesarvesh12-ship-it&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyasatpute&" alt="divyasatpute" /></p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jardesarvesh12-ship-it&theme=tokyonight"/>
+</p>
  # Connect With Me
   
 Let’s build an amazing DevOps & Cloud community together! 💡👩‍💻
