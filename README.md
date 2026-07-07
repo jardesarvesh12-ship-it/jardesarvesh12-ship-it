@@ -22,7 +22,9 @@ solutions for real-world automation and intelligent document processing.</h3>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sarvesh Jarde LinkedIn" height="30" width="40" />
 </a>
   
-<a href="https://www.instagram.com/_divya_satpute_1122?igsh=YmVlMmRtbWJ3cjJz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divya_satpute_1122" height="30" width="40" /></a>
+<a href="https://substack.com/@sarvesh96" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/substack.svg" alt="Sarvesh96 Substack" height="30" width="40" />
+</a>
 
 <a href="https://hashnode.com/@divya1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@divya1122" height="30" width="40" /></a>
 <a href="https://youtube.com/@teacode-1122?si=Zedl9euVntwRjOiR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@teacode-1122" height="30" width="40" /></a>
