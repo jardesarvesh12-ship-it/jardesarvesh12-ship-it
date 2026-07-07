@@ -2,11 +2,16 @@
 
 <div align="center"> <img src="https://github.com/jardesarvesh12-ship-it/jardesarvesh12-ship-it/blob/main/1758180372108.jpg"> </div>
 
-<h3 align="center">I/ML Engineer with hands-on experience building Computer Vision, OCR, NLP, Generative AI, and RAG
+<h3 align="center">AI/ML Engineer with hands-on experience building Computer Vision, OCR, NLP, Generative AI, and RAG
 applications using Python, TensorFlow, PyTorch, LangChain, FastAPI, and SQL. Experienced in deploying AI
 solutions for real-world automation and intelligent document processing.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyasatpute&label=Profile%20views&color=0e75b6&style=flat" alt="divyasatpute" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=jardesarvesh12-ship-it&label=Profile%20views&color=0e75b6&style=flat" alt="jardesarvesh12-ship-it" /> </p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jardesarvesh12-ship-it&label=Profile%20views&color=0e75b6&style=flat" alt="jardesarvesh12-ship-it" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyasatpute" alt="divyasatpute" /></a> </p>
 
